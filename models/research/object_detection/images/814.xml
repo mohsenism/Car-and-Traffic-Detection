@@ -1,0 +1,38 @@
+<annotation>
+	<folder>DataSet</folder>
+	<filename>814.jpg</filename>
+	<path>C:\Users\Mohsen Amoei\Desktop\DataSet\814.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>personal_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>156</ymin>
+			<xmax>168</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>personal_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>97</ymin>
+			<xmax>218</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

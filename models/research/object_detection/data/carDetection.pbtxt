@@ -1,0 +1,19 @@
+item{
+  id: 1
+  name: 'personal_car'
+}
+
+item{
+  id: 2
+  name: 'school_bus'
+}
+
+item{
+  id: 3
+  name: 'truck'
+}
+
+item{
+  id: 4
+  name: 'congestion'
+}
